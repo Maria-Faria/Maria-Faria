@@ -4,7 +4,7 @@
 - ☕ Estudando Java
 
 <div>
-  <a href="https://github.com/Maria-Faria>
+  <a href="https://github.com/Maria-Faria">
     
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Maria-Faria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   

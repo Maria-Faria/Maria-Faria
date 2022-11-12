@@ -1,6 +1,5 @@
 ## Olá! Meu nome é Maria Eduarda 👋
 
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 - ☕ Estudando Java
 
 <div>

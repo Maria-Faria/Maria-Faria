@@ -8,7 +8,7 @@
     
   <img height = "42%" src="https://github-readme-stats.vercel.app/api?username=Maria-Faria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   
-  <img height = "50%m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Faria&layout=compact&langs_count=16&theme=tokyonight">
+  <img height = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Faria&layout=compact&langs_count=16&theme=tokyonight">
 
 </div>
   

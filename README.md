@@ -24,3 +24,8 @@
 </div>
   
 ![Snake animation](https://github.com/Maria-Faria/Maria-Faria/blob/output/github-contribution-grid-snake.svg)
+
+ ##
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+ 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

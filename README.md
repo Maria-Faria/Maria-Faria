@@ -1,4 +1,4 @@
-## Olá! Meu nome é Maria Eduarda 👋
+## Olá! Meu nome é Maria Eduarda 
 
 - ☕ Estudando Java
 
@@ -26,8 +26,6 @@
   <a target = "_blank" href = "https://www.linkedin.com/in/maria-eduarda-de-faria-824912259/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a target = "_blank" href = "https://codepen.io/mariaeduardafaria"> <img src = "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </div>
-  
-![Snake animation](https://github.com/Maria-Faria/Maria-Faria/blob/output/github-contribution-grid-snake.svg)
 
  ##
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

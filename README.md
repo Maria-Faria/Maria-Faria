@@ -1,7 +1,5 @@
 ## Olá! Meu nome é Maria Eduarda 
 
-- ☕ Estudando Java
-
 <div>
   <a href="https://github.com/Maria-Faria">
     

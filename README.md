@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working as **a computer technician**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **Node.js**
 
 - 📚 I'm currently studying **cybersecurity and computer networks**
 

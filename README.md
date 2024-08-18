@@ -50,6 +50,3 @@
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maria-faria&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maria-faria" /></p>
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
